@@ -1,0 +1,290 @@
+[
+  {
+    "cat": "video",
+    "type": "video",
+    "title": "Social media outage – video ad",
+    "client": "Agency project",
+    "src": "/media/item-01.mp4",
+    "poster": "/media/item-01-poster.webp"
+  },
+  {
+    "cat": "video",
+    "type": "video",
+    "title": "Sample explainer video",
+    "client": "Agency project",
+    "src": "/media/item-02.mp4",
+    "poster": "/media/item-02-poster.webp"
+  },
+  {
+    "cat": "video",
+    "type": "video",
+    "title": "Short-form brand video",
+    "client": "Brand project",
+    "src": "/media/item-03.mp4",
+    "poster": "/media/item-03-poster.webp"
+  },
+  {
+    "cat": "video",
+    "type": "video",
+    "title": "Scooter ad – reel",
+    "client": "OTP-EV",
+    "src": "/media/item-04.mp4",
+    "poster": "/media/item-04-poster.webp"
+  },
+  {
+    "cat": "video",
+    "type": "video",
+    "title": "Showroom walkthrough – reel",
+    "client": "OTP-EV",
+    "src": "/media/item-05.mp4",
+    "poster": "/media/item-05-poster.webp"
+  },
+  {
+    "cat": "video",
+    "type": "loop",
+    "title": "Animated donut post (loop)",
+    "client": "Brand project",
+    "src": "/media/item-06.mp4",
+    "poster": "/media/item-06-poster.webp"
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Stand out creative",
+    "client": "Web Smile India",
+    "src": "/media/item-07.webp",
+    "poster": null
+  },
+  {
+  "cat": "poster",
+  "type": "img",
+  "title": "OTP-EV dealer network poster – dark edition",
+  "client": "OTP-EV",
+  "src": "/media/otp-ev-dealer-dark.webp",
+  "poster": null
+},
+{
+  "cat": "poster",
+  "type": "img",
+  "title": "OTP-EV dealer network poster – green edition",
+  "client": "OTP-EV",
+  "src": "/media/otp-ev-dealer-light.webp",
+  "poster": null
+},
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Speed-up creative",
+    "client": "Web Smile India",
+    "src": "/media/item-08.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Online store creative",
+    "client": "Web Smile India",
+    "src": "/media/item-09.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Website support creative",
+    "client": "Web Smile India",
+    "src": "/media/item-10.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Web design creative",
+    "client": "Web Smile India",
+    "src": "/media/item-11.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Plot campaign poster",
+    "client": "Green Vista",
+    "src": "/media/item-12.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Plot campaign poster",
+    "client": "Green Vista",
+    "src": "/media/item-13.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Location highlight poster",
+    "client": "Green Vista",
+    "src": "/media/item-14.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Wealth & finance poster",
+    "client": "Corporates Wealth & Finance",
+    "src": "/media/item-15.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "MSME registration poster",
+    "client": "Corporates Wealth & Finance",
+    "src": "/media/item-16.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Why choose OTP-Classic",
+    "client": "OTP-EV",
+    "src": "/media/item-17.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Charge. Ride. Repeat.",
+    "client": "OTP-EV",
+    "src": "/media/item-18.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Dealer network banner",
+    "client": "OTP-EV",
+    "src": "/media/item-19.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Logo design",
+    "client": "Corporates",
+    "src": "/media/item-20.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "Logo design",
+    "client": "Corporates",
+    "src": "/media/item-21.webp",
+    "poster": null
+  },
+  {
+    "cat": "campaign",
+    "type": "img",
+    "title": "Meta Ads campaign setup",
+    "client": "Green Vista",
+    "src": "/media/item-22.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 1",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-23.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 2",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-24.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 3",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-25.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 4",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-26.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 5",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-27.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 6",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-28.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 7",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-29.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 8",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-30.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 9",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-31.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 10",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-32.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 11",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-33.webp",
+    "poster": null
+  },
+  {
+    "cat": "report",
+    "type": "img",
+    "title": "Performance report 12",
+    "client": "Social media & lead tracking",
+    "src": "/media/item-34.webp",
+    "poster": null
+  }
+]
