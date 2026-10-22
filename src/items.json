@@ -50,27 +50,27 @@
   {
     "cat": "poster",
     "type": "img",
+    "title": "OTP-EV dealer network poster – dark edition",
+    "client": "OTP-EV",
+    "src": "/media/otp-ev-dealer-dark.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
+    "title": "OTP-EV dealer network poster – green edition",
+    "client": "OTP-EV",
+    "src": "/media/otp-ev-dealer-light.webp",
+    "poster": null
+  },
+  {
+    "cat": "poster",
+    "type": "img",
     "title": "Stand out creative",
     "client": "Web Smile India",
     "src": "/media/item-07.webp",
     "poster": null
   },
-  {
-  "cat": "poster",
-  "type": "img",
-  "title": "OTP-EV dealer network poster – dark edition",
-  "client": "OTP-EV",
-  "src": "/media/otp-ev-dealer-dark.webp",
-  "poster": null
-},
-{
-  "cat": "poster",
-  "type": "img",
-  "title": "OTP-EV dealer network poster – green edition",
-  "client": "OTP-EV",
-  "src": "/media/otp-ev-dealer-light.webp",
-  "poster": null
-},
   {
     "cat": "poster",
     "type": "img",

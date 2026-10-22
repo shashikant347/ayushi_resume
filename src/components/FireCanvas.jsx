@@ -1,5 +1,6 @@
 import { useEffect, useRef } from "react";
 
+const EM = ["❤️", "✨", "💖", "⭐", "💫", "🌸"];
 const SEL = "a,button,.tab,.card,.cc,.chip,.stat,.logo";
 
 /** Full-screen canvas that sprays flame particles when the cursor touches interactive elements. */
@@ -26,7 +27,7 @@ export default function FireCanvas() {
         P.push({
           x: px + (Math.random() - 0.5) * 10, y: py,
           vx: Math.cos(a) * v, vy: Math.sin(a) * v - 0.6,
-          r: 5 + Math.random() * 13, l: 0, m: 30 + Math.random() * 34,
+          r: 7 + Math.random() * 8, e: EM[(Math.random() * EM.length) | 0], l: 0, m: 30 + Math.random() * 34,
         });
       }
       if (!run) { run = true; raf = requestAnimationFrame(tick); }
@@ -41,13 +42,7 @@ export default function FireCanvas() {
         if (t >= 1) { P.splice(i, 1); continue; }
         p.x += p.vx + Math.sin(p.l / 5 + i) * 0.5;
         p.y += p.vy; p.vy -= 0.04; p.vx *= 0.97;
-        const r = p.r * (1 - t * 0.75), h = 52 - t * 52, l = 60 - t * 18, a = 0.85 * (1 - t);
-        const g = x.createRadialGradient(p.x, p.y, 0, p.x, p.y, r);
-        g.addColorStop(0, `hsla(${h + 14},100%,${l + 18}%,${a})`);
-        g.addColorStop(0.55, `hsla(${h},100%,${l}%,${a * 0.7})`);
-        g.addColorStop(1, `hsla(${h},100%,50%,0)`);
-        x.fillStyle = g;
-        x.beginPath(); x.arc(p.x, p.y, r, 0, 7); x.fill();
+        x.globalAlpha = 1 - t * t; x.font = `${p.r * 2 * (1 - t * 0.4)}px serif`; x.textAlign = "center"; x.textBaseline = "middle"; x.fillText(p.e, p.x, p.y); x.globalAlpha = 1;
       }
       if (P.length) raf = requestAnimationFrame(tick);
       else { run = false; x.clearRect(0, 0, c.width, c.height); }

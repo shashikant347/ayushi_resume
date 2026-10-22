@@ -15,6 +15,6 @@ npm run preview  # preview the build
 - `src/items.json` – gallery items (title, client, category, media path).
 - `public/media/` – gallery images and videos (extracted from the original base64).
 - `src/components/` – Nav, Hero, About, Experience, Work (+ WorkCard, Lightbox), ProjectLinks, Contact, Footer, CursorGlow, FireCanvas.
-- `src/index.css` – original styles, unchanged.
+- `src/index.css` – pastel-pop social-media theme (pink, lavender, mint stickers).
 
 To add a gallery piece: drop the file in `public/media/` and add an entry to `src/items.json`.
